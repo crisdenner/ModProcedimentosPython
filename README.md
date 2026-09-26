@@ -1,4 +1,4 @@
-Lista de Exercicios de Modularização com Procedimentos sem passagem de parâmetros em Python
+Lista de Exercicios de Modularização com Procedimentos e Funções em Python
 
 Autor: Cristiano Denner. Matéria de Sistemas Operacionais da Fatec Zona Leste
 
